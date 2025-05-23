@@ -1,0 +1,13 @@
+C:\Users\krist\source\repos\numbers\yes or no\bin\Debug\yes or no.exe.config
+C:\Users\krist\source\repos\numbers\yes or no\bin\Debug\yes or no.exe
+C:\Users\krist\source\repos\numbers\yes or no\bin\Debug\yes or no.pdb
+C:\Users\krist\source\repos\numbers\yes or no\obj\Debug\MainWindow.baml
+C:\Users\krist\source\repos\numbers\yes or no\obj\Debug\MainWindow.g.cs
+C:\Users\krist\source\repos\numbers\yes or no\obj\Debug\App.g.cs
+C:\Users\krist\source\repos\numbers\yes or no\obj\Debug\yes or no_MarkupCompile.cache
+C:\Users\krist\source\repos\numbers\yes or no\obj\Debug\yes or no.g.resources
+C:\Users\krist\source\repos\numbers\yes or no\obj\Debug\yes_or_no.Properties.Resources.resources
+C:\Users\krist\source\repos\numbers\yes or no\obj\Debug\yes or no.csproj.GenerateResource.cache
+C:\Users\krist\source\repos\numbers\yes or no\obj\Debug\yes or no.csproj.CoreCompileInputs.cache
+C:\Users\krist\source\repos\numbers\yes or no\obj\Debug\yes or no.exe
+C:\Users\krist\source\repos\numbers\yes or no\obj\Debug\yes or no.pdb

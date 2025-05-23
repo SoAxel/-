@@ -1,0 +1,15 @@
+C:\Users\krist\source\repos\horse\horse\bin\Debug\horse.exe.config
+C:\Users\krist\source\repos\horse\horse\bin\Debug\horse.exe
+C:\Users\krist\source\repos\horse\horse\bin\Debug\horse.pdb
+C:\Users\krist\source\repos\horse\horse\obj\Debug\horse.csproj.AssemblyReference.cache
+C:\Users\krist\source\repos\horse\horse\obj\Debug\MainWindow.g.cs
+C:\Users\krist\source\repos\horse\horse\obj\Debug\App.g.cs
+C:\Users\krist\source\repos\horse\horse\obj\Debug\horse_MarkupCompile.cache
+C:\Users\krist\source\repos\horse\horse\obj\Debug\horse_MarkupCompile.lref
+C:\Users\krist\source\repos\horse\horse\obj\Debug\MainWindow.baml
+C:\Users\krist\source\repos\horse\horse\obj\Debug\horse.g.resources
+C:\Users\krist\source\repos\horse\horse\obj\Debug\horse.Properties.Resources.resources
+C:\Users\krist\source\repos\horse\horse\obj\Debug\horse.csproj.GenerateResource.cache
+C:\Users\krist\source\repos\horse\horse\obj\Debug\horse.csproj.CoreCompileInputs.cache
+C:\Users\krist\source\repos\horse\horse\obj\Debug\horse.exe
+C:\Users\krist\source\repos\horse\horse\obj\Debug\horse.pdb

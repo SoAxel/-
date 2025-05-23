@@ -1,0 +1,27 @@
+﻿<Window x:Class="NumberFilterApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Фільтрація чисел" Height="500" Width="700">
+    <StackPanel Margin="10">
+
+        <TextBlock Text="Введіть діапазон чисел:" FontWeight="Bold" />
+        <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+            <TextBlock Text="Від:" VerticalAlignment="Center"/>
+            <TextBox Name="FromBox" Width="60" Margin="5,0"/>
+            <TextBlock Text="До:" VerticalAlignment="Center"/>
+            <TextBox Name="ToBox" Width="60" Margin="5,0"/>
+            <Button Content="📥 Згенерувати числа" Click="GenerateRangeButton_Click" Margin="10,0"/>
+        </StackPanel>
+
+        <TextBlock Text="Введіть число для фільтрації (наприклад, 7):" />
+        <TextBox Name="FilterBox" Width="100" Margin="0,0,0,10"/>
+
+        <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+            <Button Content="🔍 Знайти кратні" Click="FilterButton_Click" Margin="0,0,10,0"/>
+            <Button Content="❌ Видалити знайдені" Click="DeleteButton_Click"/>
+        </StackPanel>
+
+        <WrapPanel Name="NumberPanel" />
+
+    </StackPanel>
+</Window>
