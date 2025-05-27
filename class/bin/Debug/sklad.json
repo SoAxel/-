@@ -1,0 +1,59 @@
+{
+  "Number": 1,
+  "MaintenanceCost": 500.00,
+  "Partiyi": [
+    {
+      "Gorodyna": {
+        "Name": "\u041C\u043E\u0440\u043A\u0432\u0430",
+        "Country": "\u041F\u043E\u043B\u044C\u0449\u0430",
+        "Season": 2024
+      },
+      "Delivery": 1,
+      "Quantity": 100,
+      "UnitPrice": 15.5,
+      "TransportCost": 300,
+      "DeliveryDate": "2025-05-19T00:00:00",
+      "TotalCost": 1850.0
+    },
+    {
+      "Gorodyna": {
+        "Name": "\u041E\u0433\u0456\u0440\u043E\u043A",
+        "Country": "\u0423\u043A\u0440\u0430\u0457\u043D\u0430",
+        "Season": 2023
+      },
+      "Delivery": 1,
+      "Quantity": 50,
+      "UnitPrice": 20,
+      "TransportCost": 150,
+      "DeliveryDate": "2025-05-19T00:00:00",
+      "TotalCost": 1150
+    },
+    {
+      "Gorodyna": {
+        "Name": "\u0422\u043E\u043C\u0430\u0442",
+        "Country": "\u0422\u0443\u0440\u0435\u0447\u0447\u0438\u043D\u0430",
+        "Season": 2025
+      },
+      "Delivery": 1,
+      "Quantity": 200,
+      "UnitPrice": 18.75,
+      "TransportCost": 400,
+      "DeliveryDate": "2025-05-19T00:00:00",
+      "TotalCost": 4150.00
+    },
+    {
+      "Gorodyna": {
+        "Name": "\u041C\u043E\u0440\u043A\u0432\u0430",
+        "Country": "\u0423\u043A\u0440\u0430\u0457\u043D\u0430",
+        "Season": 2025
+      },
+      "Delivery": 1,
+      "Quantity": 330,
+      "UnitPrice": 14,
+      "TransportCost": 400,
+      "DeliveryDate": "2025-05-24T00:00:00",
+      "TotalCost": 5020
+    }
+  ],
+  "TotalValue": 12170.00
+}
