@@ -1,0 +1,9 @@
+C:\Users\krist\source\repos\horse\Voronoi\bin\Debug\Voronoi.exe.config
+C:\Users\krist\source\repos\horse\Voronoi\bin\Debug\Voronoi.exe
+C:\Users\krist\source\repos\horse\Voronoi\bin\Debug\Voronoi.pdb
+C:\Users\krist\source\repos\horse\Voronoi\obj\Debug\Voronoi.csproj.AssemblyReference.cache
+C:\Users\krist\source\repos\horse\Voronoi\obj\Debug\Voronoi.Properties.Resources.resources
+C:\Users\krist\source\repos\horse\Voronoi\obj\Debug\Voronoi.csproj.GenerateResource.cache
+C:\Users\krist\source\repos\horse\Voronoi\obj\Debug\Voronoi.csproj.CoreCompileInputs.cache
+C:\Users\krist\source\repos\horse\Voronoi\obj\Debug\Voronoi.exe
+C:\Users\krist\source\repos\horse\Voronoi\obj\Debug\Voronoi.pdb
